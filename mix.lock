@@ -1,0 +1,6 @@
+%{"exprintf": {:hex, :exprintf, "0.2.1", "b7e895dfb00520cfb7fc1671303b63b37dc3897c59be7cbf1ae62f766a8a0314", [], [], "hexpm"},
+  "flow": {:hex, :flow, "0.12.0", "32c5a5f3ff6693e004b6c17a8c64dce2f8cdaf9564912d79427176013a586ab6", [], [{:gen_stage, "~> 0.12.0", [hex: :gen_stage, repo: "hexpm", optional: false]}], "hexpm"},
+  "gen_stage": {:hex, :gen_stage, "0.12.2", "e0e347cbb1ceb5f4e68a526aec4d64b54ad721f0a8b30aa9d28e0ad749419cbb", [], [], "hexpm"},
+  "matrix": {:hex, :matrix, "0.3.2", "9c826bc3a1117bf5e1c5cdcf3a3d95456c93bc2e127a04e363e9fc90b724f784", [], [{:exprintf, "~> 0.1", [hex: :exprintf, repo: "hexpm", optional: false]}], "hexpm"},
+  "numerix": {:hex, :numerix, "0.4.2", "7d6423b616f89302afbe8e97ee7b3323c6672ebe6eaf5917d4abba9e85d52795", [], [{:flow, "~> 0.11", [hex: :flow, repo: "hexpm", optional: false]}], "hexpm"},
+  "sfmt": {:hex, :sfmt, "0.13.0", "5a576f6a5c27ed5a8fd424a4f02e8c5e8dddc2d4b8ca2170961fa155aa5bf400", [], [], "hexpm"}}
